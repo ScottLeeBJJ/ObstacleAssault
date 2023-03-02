@@ -1057,3 +1057,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.02-11.44.12:582][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.03.02-11.44.12:652][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.03.02-11.44.12:887][  3]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.02-11.44.56:042][356]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2023.03.02-11.44.56:043][356]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2023.03.02-11.44.56:043][356]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2023.03.02-11.45.07:252][804]LogSlate: Took 0.012922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.02-11.46.19:383][553]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.175 and deleted 0 files with total size 0 MiB. Scanned 10049 files in 9939 folders with total size 553 MiB.
+[2023.03.02-11.46.48:957][ 71]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.02-11.46.48:963][ 71]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.02-11.48.03:628][453]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.02-11.48.12:468][286]LogSlate: Window 'Open Level' being destroyed
+[2023.03.02-11.48.26:149][851]LogWindows: LaunchURL https://dev.epicgames.com/community
+[2023.03.02-11.49.50:557][106]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Development/Unreal-Udemy/ObstacleAssault/UnrealLearningKit/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.03.02-11.49.50:557][106]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Development/Unreal-Udemy/ObstacleAssault/UnrealLearningKit/Content/Developers/scott/Collections/' because it could not be accessed. Aborting watch request...
+[2023.03.02-11.49.50:557][106]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Development/Unreal-Udemy/ObstacleAssault/UnrealLearningKit/Saved/Collections/' because it could not be accessed. Aborting watch request...
