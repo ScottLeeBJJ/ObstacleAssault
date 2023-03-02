@@ -887,3 +887,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.02-11.23.43:526][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3AD72F0F76714408DE6AA70BC3626E10044CBF23), compiling. 
 [2023.03.02-11.23.43:620][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 450BB24F8747E57F040030ABD56223012A4C1CC6), compiling. 
 [2023.03.02-11.23.44:166][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.03.02-11.25.55:405][  0]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.508 and deleted 0 files with total size 0 MiB. Scanned 8774 files in 8687 folders with total size 457 MiB.
