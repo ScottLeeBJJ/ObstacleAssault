@@ -1070,3 +1070,60 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.02-11.49.50:557][106]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Development/Unreal-Udemy/ObstacleAssault/UnrealLearningKit/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2023.03.02-11.49.50:557][106]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Development/Unreal-Udemy/ObstacleAssault/UnrealLearningKit/Content/Developers/scott/Collections/' because it could not be accessed. Aborting watch request...
 [2023.03.02-11.49.50:557][106]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Development/Unreal-Udemy/ObstacleAssault/UnrealLearningKit/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.03.02-11.51.15:206][129]LogBlueprint: Warning: [AssetLog] D:\Development\Unreal-Udemy\ObstacleAssault\UnrealLearningKit\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.03.02-11.51.15:206][129]LogBlueprint: Warning: [AssetLog] D:\Development\Unreal-Udemy\ObstacleAssault\UnrealLearningKit\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.03.02-11.51.15:257][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2023.03.02-11.51.15:267][129]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.03.02-11.51.15:267][129]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.03.02-11.51.15:277][129]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.03.02-11.51.15:277][129]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.03.02-11.51.15:318][129]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2023.03.02-11.51.15:325][129]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.03.02-11.51.15:367][129]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/SCK_Casual01/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2023.03.02-11.51.15:399][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2023.03.02-11.51.15:399][129]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2023.03.02-11.51.15:466][130]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2023.03.02-11.51.15:466][130]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2023.03.02-11.51.15:516][131]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2023.03.02-11.51.15:731][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.03.02-11.51.15:731][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.03.02-11.51.15:791][148]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.ThirdPersonCharacter_C_0
+[2023.03.02-11.51.15:806][148]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.ThirdPersonCharacter_C_0
+[2023.03.02-11.51.15:816][148]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: ================================================
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Total job queries 109, among them cache hits 12 (11.01%)
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 60 distinct outputs (73.17%)
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Shaders Compiled: 26
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Jobs assigned 34, completed 26 (76.47%)
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Average time worker was idle: 116.31 s
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 1.38 s
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 1.56 s
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Job life time (pending + execution): average 1.30 s, max 2.40
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.87 s
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.02-11.51.16:306][168]LogShaderCompilers: Display: Average processing rate: 5.34 jobs/sec
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display: Total thread time: 16.02 s
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display: Total thread preprocess time: 1.05 s
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display: Percentage time preprocessing: 6.56%
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display: Effective parallelization: 3.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.95 sec, max 1.03 sec, min 0.84 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.85 sec, max 0.96 sec, min 0.72 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.68 sec, max 0.76 sec, min 0.57 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.57% of total time (compiled    5 times, average 0.95 sec, max 1.03 sec, min 0.84 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.49% of total time (compiled    5 times, average 0.85 sec, max 0.96 sec, min 0.72 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.15% of total time (compiled    5 times, average 0.68 sec, max 0.76 sec, min 0.57 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.60% of total time (compiled    5 times, average 0.40 sec, max 0.47 sec, min 0.32 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 4.72% of total time (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.03.02-11.51.16:307][168]LogShaderCompilers: Display: ================================================
+[2023.03.02-11.51.16:382][170]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.03.02-11.51.16:382][170]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.03.02-11.51.16:418][170]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.ThirdPersonCharacter_C_1
+[2023.03.02-11.51.16:425][170]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.ThirdPersonCharacter_C_1
+[2023.03.02-11.51.16:823][171]LogViewport: Scene viewport resized to 468x282, mode Windowed.
