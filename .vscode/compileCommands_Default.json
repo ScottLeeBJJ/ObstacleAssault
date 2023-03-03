@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\Source\\UnrealLearningKit\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_Default\\UnrealLearningKit.249.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\Source\\UnrealLearningKit\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_Default\\UnrealLearningKit.249.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_Default\\UnrealLearningKit.249.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\Source\\UnrealLearningKit\\UnrealLearningKit.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_Default\\UnrealLearningKit.249.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\Source\\UnrealLearningKit\\UnrealLearningKit.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Development\\Unreal-Udemy\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_Default\\UnrealLearningKit.249.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.1\\Engine\\Source"
+	}
+]
